@@ -1,0 +1,12 @@
+<suite name="UITests">
+    <listeners>
+        <listener class-name="Tests.ListenersUtils"/>
+    </listeners>
+    <test name="FBUITests" parallel="classes" thread-count="3">
+        <classes>
+            <class name="Tests.HomePage"/>
+            <class name="Tests.ValidateNavigationBar"/>
+            <class name="Tests.ValidateTabsInHomePage"/>
+        </classes>
+    </test>
+</suite>

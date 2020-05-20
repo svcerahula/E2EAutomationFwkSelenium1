@@ -1,0 +1,5 @@
+19:29:52.995 [TestNG-test=FBUITests-1] DEBUG Tests.HomePage - Destination screenshot save location is : C:\Rahula Space\Intellij Idea Projects\githubRepo\E2EFwkJava\reports\loginPage.png
+19:29:55.105 [TestNG-test=FBUITests-1] INFO  Tests.HomePage - closed browser successfully.
+19:29:58.899 [TestNG-test=FBUITests-1] INFO  Tests.HomePage - Driver initialized successfully
+19:30:03.640 [TestNG-test=FBUITests-1] INFO  Tests.HomePage - Logged in FB homepage successfully
+19:30:05.352 [TestNG-test=FBUITests-1] WARN  Tests.HomePage - invalid user login hence doesnt match error appears
