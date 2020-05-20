@@ -9,4 +9,9 @@
             <class name="Tests.ValidateTabsInHomePage"/>
         </classes>
     </test>
+
+    <test name="SlideShareUITests">
+    <classes>
+        <class name="Tests.SlideShareAppTests"/>
+    </classes>
 </suite>
