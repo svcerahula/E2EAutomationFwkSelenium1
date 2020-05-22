@@ -1,0 +1,7 @@
+<suite name="CucumberFwkautomationTests">
+<test name="CucumberTests">
+    <classes>
+        <class name="cucumberOptions.TestRunner1"/>
+    </classes>
+</test>
+</suite>

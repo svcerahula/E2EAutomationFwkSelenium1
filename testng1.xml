@@ -14,4 +14,11 @@
     <classes>
         <class name="Tests.SlideShareAppTests"/>
     </classes>
+    </test>
+
+    <test name="CucumberTests">
+            <classes>
+                    <class name="cucumberOptions.TestRunner1"/>
+            </classes>
+    </test>
 </suite>
